@@ -43,7 +43,7 @@ const bhumika = {
 An AI-powered Community Q&A Platform built with the MERN stack  
 *Bringing together the best of community wisdom and AI assistance*
 
-## 📫 Let's Connect
+## 📫 Links
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bhumika8p/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumika.85p@gmail.com)
