@@ -12,7 +12,7 @@
 ## 💫 About Me
 
 - 🎓 3rd Year BTech in Computer Science and Engineering
-- 💻 MERN Stack Developer
+- 💻 MERN Stack Developer diving into Next.js
 - 🚀 Latest project: **Curio-AI** - an AI-powered Community Q&A Platform
 - 📖 Love reading novels when I'm not coding
 - 🌱 Always curious to learn new technologies
@@ -42,6 +42,12 @@ const bhumika = {
 **[Curio-AI](https://curio-ai-hazel.vercel.app/)**  
 An AI-powered Community Q&A Platform built with the MERN stack  
 *Bringing together the best of community wisdom and AI assistance*
+
+## 🔬 Current Research
+
+**EEG Signal Analysis** | Under Dr. Abhilasha Chaudhari  
+Working with EEG datasets to explore cross-patient generalization and extract clinically relevant features for improved diagnostic models.
+
 
 ## 📫 Links
 
