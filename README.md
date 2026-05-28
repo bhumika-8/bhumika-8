@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" alt="Reading">
   
   # Hi, I'm Bhumika Patil 👋
@@ -64,4 +64,4 @@ A real-time collaborative code editor with Docker-based isolated execution acros
   <img src="https://komarev.com/ghpvc/?username=bhumika-8&color=blue&style=flat-square" alt="Profile views">
   
   *"It is the spectator, and not life, that art really mirrors."* - Oscar Wilde
-</div>
+</div> -->
