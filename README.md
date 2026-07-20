@@ -1,66 +1,57 @@
 <div align="center">
 
 <i>i don't chase complexity.
-
 it usually finds me first.</i>
 <br><br>
 
-<img src="./dev-meme.svg" width="480">
+<img src="./cat-cats.gif" width="250">
 
 <br><br>
 
-# hi.
+# hi,
 
 i'm bhumika.
 
-a CS undergrad at NIT Surat who keeps getting handed backend architecture and told to make it behave.
-
+currently studying **Computer Science** at **NIT Surat**, unofficially majoring in "this could use another service."
 </div>
 
 ---
 
-### what's the deal?
+## what i've been up to
 
-they hired me for one project.
+### software development intern @ ReThink
 
-i built two.
+spent two months building **backend systems** across two products.
 
-first, a recycling platform.
-five user roles, all convinced the app exists just for them.
-OTP logins, QR scans, pickup routes, recycler matching,
-and a payment system that actually needs to be correct.
+**Collection Centre** — a **recycling platform** connecting students, collection centres and recyclers. Built **role-based dashboards**, **phone OTP authentication**, **QR-powered collection flows**, **recycler allocation**, **pickup tracking**, **real-time rewards** and **Razorpay-backed settlements**.
 
-then someone said,
-"nice. now build us a healthcare platform."
+**SecondOpinion** — a **clinical consultation platform**. Worked on **specialist onboarding**, **case management**, **document verification**, **LiveKit consultations**, **audit logging** and a **hybrid wallet + subscription billing engine**.
 
-so i did.
-
-specialist onboarding. video consultations. voice notes.
-an audit trail for every single thing that happens.
-wallets, subscriptions, billing that doesn't double charge people.
-
-by the end of it i understood state machines
-on a spiritual level.
+i left the internship with a much deeper appreciation for **backend architecture**... and edge cases.
 
 ---
 
-### currently cooking
+## have also built
 
-an AI platform that reads your github
-and tells you what you're actually good at.
+**CollabCode** — a real-time **collaborative code editor** powered by **CRDTs**, **Docker sandboxes** and **distributed workers**.
 
-not what you wrote under "skills" at 2am.
-
-pgvector embeddings, an LLM agent, a matching algorithm
-that ranks open source issues you might actually enjoy solving.
-
-still in progress.
-which means it runs on my machine
-and nowhere else yet.
+**Curio** — a **community Q&A platform** with a **personalized feed** and **AI-assisted** answer drafting, question refinement and smart tag suggestions.
 
 ---
 
-### toolbox
+## currently cooking
+
+**ContribIQ**
+
+An **AI-powered platform** that analyzes what developers have *actually* built instead of what they claim on their profile.
+
+It extracts evidence from **GitHub repositories**, builds structured **skill profiles** using **LLMs**, and matches developers with **open-source issues** using **pgvector embeddings** and **semantic search**.
+
+*still under active development.*
+
+---
+
+## toolbox
 
 **languages i argue with**
 
@@ -91,7 +82,7 @@ and nowhere else yet.
 
 ---
 
-### find me here
+## find me here
 
 <div align="center">
 
@@ -104,5 +95,6 @@ and nowhere else yet.
 ---
 
 <div align="center">
-<sub>"the master has failed more times than the beginner has even tried."<br>Stephen McCranie</sub>
+<sub>Every "quick fix"<br>
+has a fascinating backstory.</sub>
 </div>
