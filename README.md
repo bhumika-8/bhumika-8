@@ -21,33 +21,39 @@ currently studying **Computer Science** at **NIT Surat**, unofficially majoring 
 
 ### software development intern @ ReThink
 
-spent two months building **backend systems** across two products.
+two months, two products, one steadily shrinking amount of sleep.
 
-**Collection Centre** — a **recycling platform** connecting students, collection centres and recyclers. Built **role-based dashboards**, **phone OTP authentication**, **QR-powered collection flows**, **recycler allocation**, **pickup tracking**, **real-time rewards** and **Razorpay-backed settlements**.
+**Collection Centre** — a recycling platform connecting students, collection centres and recyclers.
 
-**SecondOpinion** — a **clinical consultation platform**. Worked on **specialist onboarding**, **case management**, **document verification**, **LiveKit consultations**, **audit logging** and a **hybrid wallet + subscription billing engine**.
+`role-based dashboards` `phone OTP auth` `QR collection flows` `recycler allocation` `pickup tracking` `real-time rewards` `razorpay settlements`
 
-i left the internship with a much deeper appreciation for **backend architecture**... and edge cases.
+**SecondOpinion** — a clinical consultation platform where compliance isn't optional and every piece of data is someone's actual medical history.
+
+`specialist onboarding` `case management` `document verification` `livekit consultations` `audit logging` `wallet + subscription billing`
+
+i left with a much deeper appreciation for backend architecture, and a healthy fear of edge cases.
 
 ---
 
 ## have also built
 
-**CollabCode** — a real-time **collaborative code editor** powered by **CRDTs**, **Docker sandboxes** and **distributed workers**.
+**CollabCode** — a real-time collaborative code editor, built to survive multiple people typing at once without collapsing into chaos.
 
-**Curio** — a **community Q&A platform** with a **personalized feed** and **AI-assisted** answer drafting, question refinement and smart tag suggestions.
+`CRDTs` `docker sandboxes` `distributed workers`
+
+**Curio** — a community Q&A platform that tries to be a little smarter than the average forum.
+
+`personalized feed` `AI-assisted answers` `question refinement` `smart tagging`
 
 ---
 
 ## currently cooking
 
-**ContribIQ**
+**ContribIQ** — figures out what developers have *actually* built, instead of what they claim on their profile.
 
-An **AI-powered platform** that analyzes what developers have *actually* built instead of what they claim on their profile.
+`GitHub evidence extraction` `LLM skill profiling` `RAG` `semantic search`
 
-It extracts evidence from **GitHub repositories**, builds structured **skill profiles** using **LLMs**, and matches developers with **open-source issues** using **pgvector embeddings** and **semantic search**.
-
-*still under active development.*
+*still under active development, meaning it works on my machine and is judging yours.*
 
 ---
 
@@ -95,6 +101,5 @@ It extracts evidence from **GitHub repositories**, builds structured **skill pro
 ---
 
 <div align="center">
-<sub>Every "quick fix"<br>
-has a fascinating backstory.</sub>
+<sub>every "quick fix"<br>has a fascinating backstory.</sub>
 </div>
