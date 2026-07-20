@@ -21,7 +21,7 @@ currently studying **Computer Science** at **NIT Surat**, unofficially majoring 
 
 ### software development intern @ ReThink
 
-two months, two products, one steadily shrinking amount of sleep.
+two months. two products. zero "simple" requirements.
 
 **Collection Centre** — a recycling platform connecting students, collection centres and recyclers.
 
@@ -54,7 +54,7 @@ i left with a much deeper appreciation for backend architecture, and a healthy f
 ![docker sandboxes](https://img.shields.io/badge/docker%20sandboxes-8b5cf6?style=flat-square)
 ![distributed workers](https://img.shields.io/badge/distributed%20workers-7c3aed?style=flat-square)
 
-**Curio** — a community Q&A platform that tries to be a little smarter than the average forum.
+**Curio** — a community Q&A platform with personalized feeds and AI-assisted answer drafting, question refinement and smart tag suggestions.
 
 ![personalized feed](https://img.shields.io/badge/personalized%20feed-6d28d9?style=flat-square)
 ![AI-assisted answers](https://img.shields.io/badge/AI--assisted%20answers-5b21b6?style=flat-square)
@@ -120,5 +120,8 @@ i left with a much deeper appreciation for backend architecture, and a healthy f
 ---
 
 <div align="center">
-<sub>every "quick fix"<br>has a fascinating backstory.</sub>
+<p align="center">
+<i>every "quick fix"<br>
+has a fascinating backstory.</i>
+</p>
 </div>
