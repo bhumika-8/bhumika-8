@@ -1,67 +1,108 @@
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" alt="Reading">
-  
-  # Hi, I'm Bhumika Patil 👋
-  
-  **Computer Science Student at SVNIT Surat**  
-  *Building things on the web • Always learning*
+<div align="center">
+
+<i>i don't chase complexity.
+
+it usually finds me first.</i>
+<br><br>
+
+<img src="./dev-meme.svg" width="480">
+
+<br><br>
+
+# hi.
+
+i'm bhumika.
+
+a CS undergrad at NIT Surat who keeps getting handed backend architecture and told to make it behave.
+
 </div>
-<br>
 
-## 💫 About Me
-- 🎓 3rd Year BTech in Computer Science and Engineering
-- 💻 MERN Stack Developer diving into Next.js
-- 🚀 Latest project: **Curio-AI** : an AI-powered Community Q&A Platform
-- 🔨 Currently building: **CollabCode** : a real-time collaborative code editor with Docker-based execution
-- 📖 Love reading novels when I'm not coding
-- 🌱 Always curious to learn new technologies
-- 💼 Open to **internship opportunities**
+---
 
-## 🔬 Current Research
-**EEG Signal Analysis** | Under Dr. Abhilasha Chaudhari  
-Working with EEG datasets to explore cross-patient generalization and extract clinically relevant features for improved diagnostic models.
+### what's the deal?
 
-## 🛠️ Tech Stack
-```javascript
-const bhumika = {
-    languages: ["C++", "Python", "JavaScript", "SQL"],
-    frontend: ["React", "HTML", "CSS"],
-    backend: ["Node.js", "Express.js", "RESTful APIs", "Socket.IO"],
-    database: ["MongoDB", "MySQL", "Redis"],
-    tools: ["Git", "GitHub", "Docker", "Postman"]
-}
-```
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-000000?style=flat&logo=openai&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+they hired me for one project.
 
-## 🚀 Featured Projects
-**[Curio-AI](https://curio-ai-hazel.vercel.app/)**  
-An AI-powered Community Q&A Platform built with the MERN stack  
-*Bringing together the best of community wisdom and AI assistance*
+i built two.
 
-**[CollabCode](https://github.com/foramgandhicodecraft/Collaborative-Code-Editor)**  
-A real-time collaborative code editor with Docker-based isolated execution across 18 languages  
-*Built on a distributed architecture with BullMQ, Redis, and Socket.IO*
+first, a recycling platform.
+five user roles, all convinced the app exists just for them.
+OTP logins, QR scans, pickup routes, recycler matching,
+and a payment system that actually needs to be correct.
 
-## 📫 Links
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bhumika8p/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumika.85p@gmail.com)
+then someone said,
+"nice. now build us a healthcare platform."
+
+so i did.
+
+specialist onboarding. video consultations. voice notes.
+an audit trail for every single thing that happens.
+wallets, subscriptions, billing that doesn't double charge people.
+
+by the end of it i understood state machines
+on a spiritual level.
+
+---
+
+### currently cooking
+
+an AI platform that reads your github
+and tells you what you're actually good at.
+
+not what you wrote under "skills" at 2am.
+
+pgvector embeddings, an LLM agent, a matching algorithm
+that ranks open source issues you might actually enjoy solving.
+
+still in progress.
+which means it runs on my machine
+and nowhere else yet.
+
+---
+
+### toolbox
+
+**languages i argue with**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**things i willingly installed**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**things that make interviews scary**
+
+![System Design](https://img.shields.io/badge/System%20Design-2E2E2E?style=flat-square)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-2E2E2E?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-2E2E2E?style=flat-square)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-2E2E2E?style=flat-square)
+
+---
+
+### find me here
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-psi-lovat-25.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumika.85p@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhumika-8)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhumika-8&color=blue&style=flat-square" alt="Profile views">
-  
-  *"It is the spectator, and not life, that art really mirrors."* - Oscar Wilde
-</div> -->
+<sub>"the master has failed more times than the beginner has even tried."<br>Stephen McCranie</sub>
+</div>
